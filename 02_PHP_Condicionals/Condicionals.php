@@ -10,7 +10,7 @@
     echo "Aquí veurem com fer un condicional simple";
     $t = 14;// Recorda que en PHP no es diu de quin tipus de variable es. 
 
-    if ($t <? 20) {
+    if ($t < 20) {
       echo "Aquest missatge surt, si es compleix la condició del condicional";
     }
   }

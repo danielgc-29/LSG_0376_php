@@ -1,4 +1,7 @@
 <?php
-  echo ("Conceptes bàsics")
-  echo ("Hola ASIX")
+
+$titol = "Conceptes bàsics";
+$hola = "Hola ASIX";
+  echo ($titol);
+  echo ($hola)
 ?>
